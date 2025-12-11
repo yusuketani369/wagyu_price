@@ -37,6 +37,10 @@ p {
 .result a {
   color: #343a40;
 }
+.btn.btn-lg {
+  color: #fff;
+  background-color: #17a2b8;
+}
 
 @media screen and (min-width:576px) {
   .row {
